@@ -1,10 +1,7 @@
 [
-  /* ――――――――――――――― CHORDS ――――――――――――――― */
   {"file_name":"Chords_part_001.pdf","Title":"Chord Chart","Genre":"Reference","Tags":["chart","chord","reference"],"Composer":"","new_filename":"Chord_Chart_Reference.pdf"},
   {"file_name":"Chords_part_002.pdf","Title":"Basic Jazz Guitar Chords","Genre":"Jazz","Tags":["chord","jazz","reference"],"Composer":"","new_filename":"Basic_Jazz_Guitar_Chords_Jazz.pdf"},
   {"file_name":"Chords_part_003.pdf","Title":"Barre Chords","Genre":"Reference","Tags":["chord","barre","reference"],"Composer":"","new_filename":"Barre_Chords_Reference.pdf"},
-
-  /* ―――――――――――――― EXERCISES ――――――――――――― */
   {"file_name":"Exercises_part_001.pdf","Title":"12-Bar Blues Shuffle","Genre":"Blues","Tags":["exercise","shuffle","riff"],"Composer":"","new_filename":"12-Bar_Blues_Shuffle_Blues.pdf"},
   {"file_name":"Exercises_part_002.pdf","Title":"The Caterpillar Exercise – Level 1","Genre":"Reference","Tags":["exercise","caterpillar","level1","down-picking"],"Composer":"Rob Hampton","new_filename":"The_Caterpillar_Exercise_Level_1_Reference.pdf"},
   {"file_name":"Exercises_part_003.pdf","Title":"The Caterpillar Exercise – Level 2","Genre":"Reference","Tags":["exercise","caterpillar","level2","alternate-picking"],"Composer":"Rob Hampton","new_filename":"The_Caterpillar_Exercise_Level_2_Reference.pdf"},
@@ -24,23 +21,17 @@
   {"file_name":"Exercises_part_017.pdf","Title":"Mystery Songs – Level 7 (More Eighth Notes)","Genre":"Reference","Tags":["exercise","song","mystery","level7","eighth-notes"],"Composer":"","new_filename":"Mystery_Songs_Level_7_More_Eighth_Notes_Reference.pdf"},
   {"file_name":"Exercises_part_018.pdf","Title":"Mystery Songs – Level 8 (Down to E)","Genre":"Reference","Tags":["exercise","song","mystery","level8"],"Composer":"","new_filename":"Mystery_Songs_Level_8_Down_to_E_Reference.pdf"},
   {"file_name":"Exercises_part_019.pdf","Title":"Mystery Songs – Level 9 (Down to C)","Genre":"Reference","Tags":["exercise","song","mystery","level9"],"Composer":"","new_filename":"Mystery_Songs_Level_9_Down_to_C_Reference.pdf"},
-
-  /* ――――――――――――――― LICKS ――――――――――――――― */
   {"file_name":"Licks_part_001.pdf","Title":"Fingerstyle Folk Patterns – Level 1","Genre":"Folk","Tags":["lick","pattern","fingerstyle","exercise"],"Composer":"","new_filename":"Fingerstyle_Folk_Patterns_Level_1_Folk.pdf"},
   {"file_name":"Licks_part_002.pdf","Title":"Blues Vocabulary #1-4 (A-Blues Scale)","Genre":"Blues","Tags":["lick","blues","scale","position5"],"Composer":"Justin Sandercoe","new_filename":"Blues_Vocabulary_1-4_A-Blues_Scale_Blues.pdf"},
   {"file_name":"Licks_part_003.pdf","Title":"Blues Vocabulary #5-8","Genre":"Blues","Tags":["lick","blues","technique"],"Composer":"Tim Pierce","new_filename":"Blues_Vocabulary_5-8_Blues.pdf"},
   {"file_name":"Licks_part_004.pdf","Title":"Blues Licks – Mix & Match","Genre":"Blues","Tags":["lick","blues","exercise"],"Composer":"Tim Pierce","new_filename":"Blues_Licks_Mix_and_Match_Blues.pdf"},
   {"file_name":"Licks_part_005.pdf","Title":"Hendrix-isms (A Minor / C Major)","Genre":"Rock","Tags":["lick","hendrix","rock","exercise"],"Composer":"Jimi Hendrix","new_filename":"Hendrix-isms_A_Minor_C_Major_Rock.pdf"},
   {"file_name":"Licks_part_006.pdf","Title":"Lester Flatt G-Run","Genre":"Bluegrass","Tags":["lick","bluegrass","run"],"Composer":"Lester Flatt","new_filename":"Lester_Flatt_G-Run_Bluegrass.pdf"},
-
-  /* ――――――――――――――― SCALES ―――――――――――――― */
   {"file_name":"Scales_part_001.pdf","Title":"E Minor Pentatonic Scale","Genre":"Reference","Tags":["scale","pentatonic","e-minor"],"Composer":"","new_filename":"E_Minor_Pentatonic_Scale_Reference.pdf"},
   {"file_name":"Scales_part_002.pdf","Title":"A Minor Pentatonic Scale","Genre":"Reference","Tags":["scale","pentatonic","a-minor"],"Composer":"","new_filename":"A_Minor_Pentatonic_Scale_Reference.pdf"},
   {"file_name":"Scales_part_003.pdf","Title":"F Minor Pentatonic Scale","Genre":"Reference","Tags":["scale","pentatonic","f-minor"],"Composer":"","new_filename":"F_Minor_Pentatonic_Scale_Reference.pdf"},
   {"file_name":"Scales_part_004.pdf","Title":"Scale Steps, Solfege & Nashville Numbering – C Major","Genre":"Reference","Tags":["theory","scale","solfege","nashville"],"Composer":"","new_filename":"Scale_Steps_Solfege_and_Nashville_Numbering_C_Major_Reference.pdf"},
   {"file_name":"Scales_part_005.pdf","Title":"G Major Scale – One & Two Octaves","Genre":"Reference","Tags":["scale","g-major","reference"],"Composer":"","new_filename":"G_Major_Scale_One_and_Two_Octaves_Reference.pdf"},
-
-  /* ――――――――― SONGS A-F (selected highlights) ―――― */
   {"file_name":"Songs A-F_part_001.pdf","Title":"Blue Monk","Genre":"Jazz","Tags":["song","lead-sheet"],"Composer":"Thelonious Monk","new_filename":"Blue_Monk_Jazz.pdf"},
   {"file_name":"Songs A-F_part_002.pdf","Title":"Deck the Halls (Version 1)","Genre":"Holiday","Tags":["song","carol"],"Composer":"Traditional Welsh","new_filename":"Deck_the_Halls_Version_1_Holiday.pdf"},
   {"file_name":"Songs A-F_part_003.pdf","Title":"Deck the Halls (Version 2)","Genre":"Holiday","Tags":["song","carol"],"Composer":"Traditional Welsh","new_filename":"Deck_the_Halls_Version_2_Holiday.pdf"},
@@ -69,8 +60,6 @@
   {"file_name":"Songs A-F_part_026.pdf","Title":"Dazed and Confused – Riffs","Genre":"Rock","Tags":["song","riff"],"Composer":"Led Zeppelin","new_filename":"Dazed_and_Confused_Riffs_Rock.pdf"},
   {"file_name":"Songs A-F_part_027.pdf","Title":"Dazed and Confused – Full Score","Genre":"Rock","Tags":["song","full-score"],"Composer":"Jimmy Page","new_filename":"Dazed_and_Confused_Full_Score_Rock.pdf"},
   {"file_name":"Songs A-F_part_028.pdf","Title":"Deck the Halls (Andantino)","Genre":"Holiday","Tags":["song","carol"],"Composer":"Traditional Welsh","new_filename":"Deck_the_Halls_Andantino_Holiday.pdf"},
-
-  /* ――――――― SONGS G-L (highlights) ――――― */
   {"file_name":"Songs G-L_part_001.pdf","Title":"Louie Louie – Bassline","Genre":"Rock","Tags":["song","bassline"],"Composer":"Richard Berry","new_filename":"Louie_Louie_Bassline_Rock.pdf"},
   {"file_name":"Songs G-L_part_002.pdf","Title":"Heat Waves","Genre":"Pop","Tags":["song","riff"],"Composer":"Glass Animals","new_filename":"Heat_Waves_Pop.pdf"},
   {"file_name":"Songs G-L_part_003.pdf","Title":"Jingle Bells","Genre":"Holiday","Tags":["song","carol"],"Composer":"James Pierpont","new_filename":"Jingle_Bells_Holiday.pdf"},
@@ -84,8 +73,6 @@
   {"file_name":"Songs G-L_part_011.pdf","Title":"Louie Louie – Power Chords","Genre":"Rock","Tags":["song","power-chords"],"Composer":"Richard Berry","new_filename":"Louie_Louie_Power_Chords_Rock.pdf"},
   {"file_name":"Songs G-L_part_012.pdf","Title":"The Godfather Theme","Genre":"Film","Tags":["song","theme","classical-guitar"],"Composer":"Nino Rota","new_filename":"The_Godfather_Theme_Film.pdf"},
   {"file_name":"Songs G-L_part_013.pdf","Title":"The Godfather Theme – TAB","Genre":"Film","Tags":["song","tab","theme"],"Composer":"Nino Rota","new_filename":"The_Godfather_Theme_TAB_Film.pdf"},
-
-  /* ――――――― SONGS M-S (highlights) ――――― */
   {"file_name":"Songs M-S_part_001.pdf","Title":"Monkey Island – Main Theme","Genre":"Film","Tags":["song","theme","game-music"],"Composer":"Michael Land","new_filename":"Monkey_Island_Main_Theme_Film.pdf"},
   {"file_name":"Songs M-S_part_002.pdf","Title":"Monkey Island – Chord Progression","Genre":"Film","Tags":["song","chords","game-music"],"Composer":"Michael Land","new_filename":"Monkey_Island_Chord_Progression_Film.pdf"},
   {"file_name":"Songs M-S_part_003.pdf","Title":"Scarborough Fair – Lead Sheet","Genre":"Folk","Tags":["song","lead-sheet"],"Composer":"Traditional","new_filename":"Scarborough_Fair_Lead_Sheet_Folk.pdf"},
@@ -101,9 +88,9 @@
   {"file_name":"Songs M-S_part_013.pdf","Title":"Invention in G","Genre":"Classical","Tags":["song","invention"],"Composer":"Johann Sebastian Bach","new_filename":"Invention_in_G_Classical.pdf"},
   {"file_name":"Songs M-S_part_014.pdf","Title":"Mission: Impossible Theme – Rehearsal Notes","Genre":"Film","Tags":["notes","arrangement"],"Composer":"Lalo Schifrin","new_filename":"Mission_Impossible_Theme_Rehearsal_Notes_Film.pdf"},
   {"file_name":"Songs M-S_part_015.pdf","Title":"Custom Arrangement Notes – Mission: Impossible","Genre":"Reference","Tags":["notes","arrangement"],"Composer":"","new_filename":"Custom_Arrangement_Notes_Mission_Impossible_Reference.pdf"},
-  {"file_name":"Songs M-S_part_016.pdf","Title":"Riptide","Genre":"Pop","Tags":["song","chords","ukulele"],"Composer":"Vance Joy","new_filename":"Riptide_Pop.pdf"}
+  {"file_name":"Songs M-S_part_016.pdf","Title":"Riptide","Genre":"Pop","Tags":["song","chords","ukulele"],"Composer":"Vance Joy","new_filename":"Riptide_Pop.pdf"},
   {"file_name":"Songs M-S_part_017.pdf","Title":"Smells Like Teen Spirit","Genre":"Rock","Tags":["song","grunge","riff","nirvana"],"Composer":"Kurt Cobain (Nirvana)","new_filename":"Smells_Like_Teen_Spirit_Rock.pdf"},
-  {"file_name":"Songs M-S_part_018.pdf","Title":"Ode to Joy","Genre":"Classical","Tags":["melody","classical","beethoven"],"Composer":"Ludwig van Beethoven","new_filename":"Ode_to_Joy_Classical.pdf"},
+  {"file_name":"Songs M-S_part_018.pdf","Title":"Ode to Joy","Genre":"Classical","Tags":["melody","classical","beethoven"],"Composer":"Ludwig van Beethoven","new_filename":"Ode_to_Joy_Melody_Classical.pdf"},
   {"file_name":"Songs M-S_part_019.pdf","Title":"Seven Nation Army – Main Riff","Genre":"Rock","Tags":["riff","white-stripes","garage"],"Composer":"Jack White","new_filename":"Seven_Nation_Army_Main_Riff_Rock.pdf"},
   {"file_name":"Songs M-S_part_020.pdf","Title":"Summertime","Genre":"Jazz","Tags":["standard","gershwin","vocal"],"Composer":"George Gershwin","new_filename":"Summertime_Jazz.pdf"},
   {"file_name":"Songs M-S_part_021.pdf","Title":"So Young","Genre":"Rock","Tags":["indie","portugal-the-man","chords"],"Composer":"Portugal. The Man","new_filename":"So_Young_Rock.pdf"},
@@ -125,4 +112,4 @@
   {"file_name":"Theory_part_002.pdf","Title":"Music Notation for Guitar","Genre":"Reference","Tags":["theory","notation","guitar"],"Composer":"","new_filename":"Music_Notation_for_Guitar_Reference.pdf"},
   {"file_name":"Theory_part_003.pdf","Title":"Guitar Anatomy Overview","Genre":"Reference","Tags":["theory","guitar-parts","anatomy"],"Composer":"","new_filename":"Guitar_Anatomy_Overview_Reference.pdf"},
   {"file_name":"Theory_part_004.pdf","Title":"Circle of Fifths – Key Signatures","Genre":"Reference","Tags":["theory","circle-of-fifths","keys"],"Composer":"","new_filename":"Circle_of_Fifths_Key_Signatures_Reference.pdf"}
-]
+] 

@@ -1,6 +1,93 @@
 # Music Sheets PDF Processor
 
-A Go-based tool for processing guitar lesson PDFs, splitting them on "SPLITME" pages, and extracting text content using OCR.
+This project processes PDF files from a music sheets collection, renaming them and organizing them according to metadata specifications.
+
+## What Was Accomplished
+
+### 1. Metadata Processing
+- **Input**: `extracted_content/metadata.json` (with comments - invalid JSON)
+- **Output**: `extracted_content/metadata_clean.json` (valid JSON without comments)
+- **Processed**: 90 PDF files from the extracted_content directory
+
+### 2. File Processing
+The Go program (`pdf_processor_simple.go`) successfully:
+
+- ✅ **Renamed files** according to the `new_filename` attribute in metadata
+- ✅ **Copied files** to the `processed_files/` directory
+- ✅ **Created metadata text files** for each PDF with the following information:
+  - Title (from metadata Title field)
+  - Author (from metadata Composer field)
+  - Subject (from metadata Genre field)
+  - Keywords (comma-separated Tags from metadata)
+  - Original filename
+  - New filename
+
+### 3. Results
+- **Successfully processed**: 90 files
+- **Errors**: 0 files
+- **Output location**: `processed_files/` directory
+
+## File Structure
+
+```
+processed_files/
+├── Blue_Monk_Jazz.pdf
+├── Blue_Monk_Jazz_metadata.txt
+├── Chord_Chart_Reference.pdf
+├── Chord_Chart_Reference_metadata.txt
+├── [90 PDF files total]
+└── [90 metadata text files total]
+```
+
+## Example Metadata File
+
+Each PDF has a corresponding `_metadata.txt` file:
+
+```
+PDF Metadata Information:
+Title: Blue Monk
+Author: Thelonious Monk
+Subject: Jazz
+Keywords: song, lead-sheet
+Original Filename: Songs A-F_part_001.pdf
+New Filename: Blue_Monk_Jazz.pdf
+```
+
+## Technical Notes
+
+### PDF Metadata Modification
+The original requirement was to modify PDF metadata (Title, Author, Subject, Keywords) directly within the PDF files. This requires specialized PDF libraries like:
+
+- `github.com/unidoc/unipdf/v3` (commercial license required)
+- `github.com/ledongthuc/pdf` (limited metadata support)
+- `github.com/gen2brain/go-fitz` (no metadata support)
+
+### Alternative Solutions
+1. **Current Solution**: Copy files with renamed filenames + separate metadata text files
+2. **Advanced Solution**: Use unidoc library (requires license) to modify PDF metadata directly
+3. **Command Line**: Use tools like `exiftool` or `pdftk` to modify PDF metadata
+
+## Running the Program
+
+```bash
+# Make sure you're in the project directory
+cd /Users/goberoi/Projects/music_sheets
+
+# Run the processor
+go run pdf_processor_simple.go
+```
+
+## Dependencies
+
+- Go 1.21+
+- Standard library only (no external dependencies)
+
+## Future Enhancements
+
+1. **PDF Metadata Modification**: Implement with unidoc library (requires license)
+2. **Batch Processing**: Add progress bars and better error handling
+3. **Validation**: Add checks for file integrity and metadata consistency
+4. **Organization**: Group files by genre or other criteria
 
 ## Features
 
