@@ -1,5 +1,6 @@
-# Exclude extracted content (large generated files)
-extracted_content/
+# Exclude all extracted content except the JSON summary
+extracted_content/*
+!extracted_content/extracted_content.json
 
 # macOS
 .DS_Store
